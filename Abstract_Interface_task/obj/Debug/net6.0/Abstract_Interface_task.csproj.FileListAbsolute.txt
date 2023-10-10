@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\bin\Debug\net6.0\Abstract_Interface_task.exe
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\bin\Debug\net6.0\Abstract_Interface_task.deps.json
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\bin\Debug\net6.0\Abstract_Interface_task.runtimeconfig.json
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\bin\Debug\net6.0\Abstract_Interface_task.dll
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\bin\Debug\net6.0\Abstract_Interface_task.pdb
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\obj\Debug\net6.0\Abstract_Interface_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\obj\Debug\net6.0\Abstract_Interface_task.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\obj\Debug\net6.0\Abstract_Interface_task.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\obj\Debug\net6.0\Abstract_Interface_task.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\obj\Debug\net6.0\Abstract_Interface_task.dll
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\obj\Debug\net6.0\refint\Abstract_Interface_task.dll
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\obj\Debug\net6.0\Abstract_Interface_task.pdb
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\obj\Debug\net6.0\Abstract_Interface_task.genruntimeconfig.cache
+C:\Users\ilkin\source\repos\Abstract_Interface_task\Abstract_Interface_task\obj\Debug\net6.0\ref\Abstract_Interface_task.dll
